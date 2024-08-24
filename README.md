@@ -53,7 +53,8 @@ This project can be used as a learning resource or as a basis for further develo
 Contributions to this project are welcome. Feel free to fork the repository, make improvements, and submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License, which allows you to freely use, distribute, share, copy, and modify the content. Feel free to adapt the material for your own learning or to share with others. For more detailed information, see the [LICENSE](LICENSE) file.
+
 
 ## Contact
 If you have any questions or feedback, feel free to reach out via email at sureshragireddy6@gmail.com.
